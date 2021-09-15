@@ -1,10 +1,13 @@
 ## Notes
   This is my own config.js configuration for my magic mirror.
+  
   I left the Links and Contribution parts of the README so anyone viewing this can go look at their website.
   
 ## To-do
   Need to figure out why MMMEthereum isn't working.
+  
   Need to add IR sensor.
+  
   Need to add LEDs.
 ## Links
 
