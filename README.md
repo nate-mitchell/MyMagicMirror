@@ -1,5 +1,5 @@
 ## Notes
-  This is my own config.js configuration for my magic mirror.
+  This is my own config.js file for my magic mirror. There are no API keys in this file.
   
   I left the Links and Contribution parts of the README so anyone viewing this can go look at their website.
   
